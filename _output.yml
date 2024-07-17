@@ -7,3 +7,4 @@ bookdown::gitbook:
       after: |
         <li><a href="." target="blank">Facultad de Ciencias Sociales</a></li>
     edit: https://github.com/Direccion-Academica/catastro-analistas/edit/main/%s
+
