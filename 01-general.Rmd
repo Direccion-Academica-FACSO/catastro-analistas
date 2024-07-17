@@ -1,0 +1,11 @@
+# Flujograma General
+
+En la figura 2.1. (Abrir imagen en nueva pestaña para expandir), se presenta el flujograma general de los datos de la Facultad. De manera vertical, se ordenan 13 unidades y direcciones catastradas, además del Nivel Central de la Universidad de Chile y los Departamentos (de manera agregada). De manera horizontal, en cambio, se presentan distintas fases del proceso: Los rombos representan la producción de datos brutos; los cilindros, su procesamiento y almacenamiento; los rectangulos, su reporte. 
+
+
+```{r echo=FALSE, fig.cap= "Flujo de Datos Facso"}
+
+knitr::include_graphics(rep("imagenes/general.png"))
+```
+
+Se vislumbra, de tal modo, una red intricada que involucra múltiples actores a nivel de la facultad. De modo general, se observa que muchos datos de estudiantes y de académicos se producen en los Departamentos (incluyendo Carreras y programas de postgrado). Sin embargo, raramente éstos son los encargados de procesarlos. Así, el flujo de datos trasncurre hacia las unidades trasversales, quienes asumen la responsabilidad de procesar, almacenar y, eventualmente, reportarlos. 

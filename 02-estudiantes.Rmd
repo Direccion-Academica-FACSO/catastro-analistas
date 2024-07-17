@@ -1,0 +1,10 @@
+# Datos sobre Estudiantes
+
+En la figura 3.1., se presentan las unidades y direcciones que procesan datos sobre los estudiantes de la Facultad. En concreto, las unidades involucradas son: la Escuela de Postgrado, la Escuela de Pregrado, Secretaría de Estudios, la Dirección de Asuntos Estudiantiles, la Unidad de Bienestar, la Dirección de Género, la Dirección de Relaciones Internacionales y la Unidad de Educación Continua. 
+
+```{r echo=FALSE, fig.cap= "Flujograma Datos Estudiantes", out.width="200%"}
+
+knitr::include_graphics(rep("imagenes/estudiantes.png"))
+```
+
+Es necesario recordar que las unidades y direcciones tienen a su disposición información sensible sobre los estudiantes de la Facultad. Por ello, al solicitar o compartir estos datos es necesario tomar los resguardos del caso. En muchos casos, es posible que baste con compartir los datos agregados que se soliciten. En caso de requerir la base datos completa, la unidad a cargo deberá tomar los precauciones para garantizar el anonimato y la privacidad de los estudiantes (establecer máscaras de RUN; ocultar nombres, correos electrónicos, números telefónicos y cualquier dato que permitan la identificación personal de un estudiante)

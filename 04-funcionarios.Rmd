@@ -1,0 +1,9 @@
+# Datos sobre Funcionarios
+
+La figura 4.1., presenta las unidades y direcciones que procesan datos sobre el cuerpo académico de la Facultad. Las unidades involucradas son la Dirección Económica, la Unidad de Personal y la Unidad de Bienestar. 
+
+
+```{r echo=FALSE, fig.cap= "Flujograma Datos Funcionarios", out.width="200%"}
+
+knitr::include_graphics(rep("imagenes/funcionarios.png"))
+```
