@@ -5,6 +5,6 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Catastro Datos FACSO</a></li>
       after: |
-        <li><a href="." target="blank">Facultad de Ciencias Sociales</a></li>
-    edit: https://github.com/Direccion-Academica/catastro-analistas/edit/main/%s
+        <li><a href="https://facso.uchile.cl/" target="blank">Facultad de Ciencias Sociales</a></li>
+    edit: https://github.com/Direccion-Academica-FACSO/catastro-analistas/edit/main/%s
 
